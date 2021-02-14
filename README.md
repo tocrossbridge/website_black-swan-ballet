@@ -50,6 +50,27 @@ https://www.freepik.com/free-vector/swan-silhouette-concept_7327566.htm
 Woman of the banner:
 https://www.freepik.com/free-photo/young-beautiful-modern-style-dancer-jumping_8679628.htm
 
+About img section:
+https://www.freepik.com/free-photo/ballerina-dancer-sitting-down-with-her-legs-crossed_7932597.htm#position=29
+
+Instructors:
+https://www.freepik.com/free-photo/young-graceful-tender-ballerina-dark-studio_8821590.htm
+
+Studio:
+https://www.freepik.com/free-photo/professional-ballerinas-training-together-with-pointe-shoes-leotards_12059939.htm
+
+https://www.freepik.com/free-photo/professional-ballet-studio-with-handrail_7076802.htm#page=1&query=studio%20ballet&position=9
+
+https://www.freepik.com/free-photo/close-up-ballet-studio-handrail_7076831.htm
+
+https://www.freepik.com/free-photo/front-view-ballerina-rehearsing-floor_12059892.htm
+
+https://www.freepik.com/free-photo/cute-little-ballerinas-pink-ballet-costume-children-pointe-shoes-is-dancing-room-kid-dance-class-with-teacher_11799899.htm#page=1&query=studio%20ballet&position=22
+
+https://www.freepik.com/free-photo/cute-little-ballerina-pink-ballet-costume-child-pointe-shoes-is-dancing-room-kid-dance-class_11155275.htm
+
+BG at pricing:
+https://www.freepik.com/free-photo/professional-ballerina-putting-her-ballet-shoes_8679374.htm
 
 <div>
   
