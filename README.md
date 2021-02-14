@@ -44,11 +44,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie
 
 The down below are the credits of all sources that I used to composed the images:
 
-Logo of the black swan:
-https://www.freepik.com/free-vector/swan-silhouette-concept_7327566.htm
+<b>HEADER</b>
 
-Woman of the banner:
-https://www.freepik.com/free-photo/young-beautiful-modern-style-dancer-jumping_8679628.htm
+The image of the header was the mix of the 2 down below images, with some Photoshop magic:
+
+<b>Logo of the black swan:</b>
+<a href="https://www.freepik.com/free-vector/swan-silhouette-concept_7327566.htm" target="_blank">Swan silhouette</a>
+<b>Woman of the banner:</b>
+<a href="https://www.freepik.com/free-photo/young-beautiful-modern-style-dancer-jumping_8679628.htm" target="_blank">Dancer jumping</a>
 
 About img section:
 https://www.freepik.com/free-photo/ballerina-dancer-sitting-down-with-her-legs-crossed_7932597.htm#position=29
