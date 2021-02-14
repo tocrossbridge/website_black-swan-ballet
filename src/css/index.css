@@ -1,0 +1,13 @@
+header{
+    background-image: url(../img/header_bg_desktop.png);
+    background-position: initial;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+@media (max-width: 1000px){
+    header{
+        background-image: url(../img/header_bg_mobile_with_name.png);
+    }
+}
