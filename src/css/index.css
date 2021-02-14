@@ -6,6 +6,27 @@ header{
     height: 1000px;
 }
 
+
+/* CONTACT US */
+.contact-us{
+    font-size: 50px;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.contact-us__button{
+    background-color: #343434;
+    color: #fff;
+    font-weight: 900;
+    font-size: 50px;
+    padding: 20px 70px;
+    border-radius: 20px;
+}
+.contact-us__button:hover{
+    background-color: #9b9b9b;
+    color: #202020;
+}
+
+/* FOOTER  */
 footer{
     background-color: #343434;
     height: 30px;
