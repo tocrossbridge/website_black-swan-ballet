@@ -52,10 +52,10 @@ The image of the header was the mix of the 2 down below images, with some Photos
 <b>ABOUT</b><br>
 Image: <a href="https://www.freepik.com/free-photo/ballerina-dancer-sitting-down-with-her-legs-crossed_7932597.htm#position=29" target="_blank">Ballerina sitting down</a>
 
-<b>Instructors</b>
+<b>Instructors</b><br>
 Vaslav Graham: <a href="https://www.freepik.com/free-photo/young-graceful-tender-ballerina-dark-studio_8821590.htm" target="_blank">Ballerina dark studio</a>
 
-<b>Studio</b>
+<b>Studio</b><br>
 Photo 01: <a href="https://www.freepik.com/free-photo/professional-ballerinas-training-together-with-pointe-shoes-leotards_12059939.htm" target="_blank">Ballerinas training</a><br>
 Photo 02: <a href="https://www.freepik.com/free-photo/professional-ballet-studio-with-handrail_7076802.htm#page=1&query=studio%20ballet&position=9" target="_blank">Ballet studio with handrail</a><br>
 Photo 03: <a href="https://www.freepik.com/free-photo/close-up-ballet-studio-handrail_7076831.htm" target="_blank">Close up ballet studio</a><br>
@@ -63,8 +63,8 @@ Photo 04: <a href="https://www.freepik.com/free-photo/front-view-ballerina-rehea
 Photo 05: <a href="https://www.freepik.com/free-photo/cute-little-ballerinas-pink-ballet-costume-children-pointe-shoes-is-dancing-room-kid-dance-class-with-teacher_11799899.htm#page=1&query=studio%20ballet&position=22" target="_blank">Little ballerinas</a><br>
 Photo 06: <a href="https://www.freepik.com/free-photo/cute-little-ballerina-pink-ballet-costume-child-pointe-shoes-is-dancing-room-kid-dance-class_11155275.htm" target="_blank">Little ballerina pointe shoes</a><br>
 
-<b>PRICING</b>
-<a href="https://www.freepik.com/free-photo/professional-ballerina-putting-her-ballet-shoes_8679374.htm" target="_blank">Professional ballerina putting her ballet shoes</a>
+<b>PRICING</b><br>
+Background: <a href="https://www.freepik.com/free-photo/professional-ballerina-putting-her-ballet-shoes_8679374.htm" target="_blank">Professional ballerina putting her ballet shoes</a>
 
 <div>
   
