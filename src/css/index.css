@@ -7,6 +7,32 @@ header{
 }
 
 
+/* INSTRUCTORS */
+.instructors__title{
+    font-size: 50px;
+}
+.instructors__instructor--name{
+    font-size: 50px;
+}
+.instructors__instructor--specialization{
+    text-transform: uppercase;
+}
+.instructors__instructor--text{
+    font-size: 24px;
+}
+.instructors__instructor--btn{
+    background-color: #343434;
+    color: #fff;
+    font-weight: 900;
+    width: 100%;
+    padding: 10px;
+    border-radius: 12px;
+}
+.instructors__instructor--btn:hover{
+    background-color: #9b9b9b;
+    color: #202020;
+}
+
 /* STUDIO & LIFE */
 .studio-and-life{
     text-align: center;
