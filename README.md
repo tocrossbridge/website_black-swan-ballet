@@ -19,12 +19,7 @@ and, for the code, I used Bootstrap 4.6
 
 # Project setup
 ```
-Type the commands here
-```
-
-### Compiles and hot-reloads for development
-```
-Type the commands here
+ Open the index.html at your favorite browser! ;D
 ```
 
 <b>Thank you for your support!</b>
