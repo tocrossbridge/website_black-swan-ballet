@@ -3,9 +3,40 @@ header{
     background-position: initial;
     background-size: contain;
     background-repeat: no-repeat;
-    height: 1000px;
+    height: 888px;
+    max-height: 897px;
 }
 
+
+/* INSTRUCTORS */
+.about__bg{
+    background-image: url(../img/about_bg.png);
+    background-repeat: no-repeat;
+}
+.about__main--title{
+    font-size: 50px;
+    font-weight: 900;
+    color: #fff;
+}
+.about__main--btn{
+    background-color: #343434;
+    color: #fff;
+    font-weight: 900;
+    font-size: 18px;
+    padding: 10px 60px;
+    border-radius: 12px;
+}
+.about__main--btn:hover{
+    background-color: #9b9b9b;
+    color: #202020;
+}
+.about__more--title{
+    font-size: 50px;
+    font-weight: 700;
+}
+.about__more--text{
+    font-size: 24px;
+}
 
 /* INSTRUCTORS */
 .instructors__title{
