@@ -1,5 +1,5 @@
 # Website: Black Swan Company
-
+<img src="src/img/readme/mockup_desktop.png" />
 <b>Made with:</b><br/>
 Lorem ipsulum v1.4
 <br/><br/>
