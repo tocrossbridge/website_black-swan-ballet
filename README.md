@@ -50,7 +50,7 @@ The image of the header was the mix of the 2 down below images, with some Photos
 <a href="https://www.freepik.com/free-photo/young-beautiful-modern-style-dancer-jumping_8679628.htm" target="_blank">Dancer jumping</a>
 
 <b>ABOUT</b>
-Image:<a href="https://www.freepik.com/free-photo/ballerina-dancer-sitting-down-with-her-legs-crossed_7932597.htm#position=29" target="_blank">Ballerina sitting down</a>
+Image: <a href="https://www.freepik.com/free-photo/ballerina-dancer-sitting-down-with-her-legs-crossed_7932597.htm#position=29" target="_blank">Ballerina sitting down</a>
 
 <b>Instructors</b>
 Vaslav Graham: <a href="https://www.freepik.com/free-photo/young-graceful-tender-ballerina-dark-studio_8821590.htm" target="_blank">Ballerina dark studio</a>
