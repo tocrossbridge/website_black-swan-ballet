@@ -7,6 +7,20 @@ header{
 }
 
 
+/* STUDIO & LIFE */
+.studio-and-life{
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.studio-and-life__title{
+    font-size: 50px;
+    font-weight: 900;
+}
+.studio-and-life__images{
+    width: 100%;
+}
+
 /* PRICING */
 .pricing{
     background-image: url(../img/pricing_bg.png);
