@@ -25,7 +25,7 @@ and, for the code, I used Bootstrap 4.6
 <b>Thank you for your support!</b>
 
 # Preview
-<img src="overview.png" alt="Black Swan Company" />
+<img src="src/img/readme/overview_desktop.png" alt="Black Swan Company" />
 
 
 # How is the development of the project right now?
