@@ -7,6 +7,28 @@ header{
 }
 
 
+/* PRICING */
+.pricing{
+    background-image: url(../img/pricing_bg.png);
+    background-repeat: no-repeat;
+    height: 689px;
+}
+.pricing__card{
+    background-color: #475548;
+    color: #fff;
+    margin-top: 5rem;
+}
+.pricing__text-title{
+    font-size: 50px;
+}
+.pricing__text-description{
+    font-size: 28px;
+}
+.pricing__text-price{
+    font-size: 50px;
+}
+
+
 /* CONTACT US */
 .contact-us{
     font-size: 50px;
