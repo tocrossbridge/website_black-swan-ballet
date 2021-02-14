@@ -49,7 +49,7 @@ The image of the header was the mix of the 2 down below images, with some Photos
 <b>Woman of the banner:</b>
 <a href="https://www.freepik.com/free-photo/young-beautiful-modern-style-dancer-jumping_8679628.htm" target="_blank">Dancer jumping</a>
 
-<b>ABOUT</b>
+<b>ABOUT</b><br>
 Image: <a href="https://www.freepik.com/free-photo/ballerina-dancer-sitting-down-with-her-legs-crossed_7932597.htm#position=29" target="_blank">Ballerina sitting down</a>
 
 <b>Instructors</b>
