@@ -155,10 +155,12 @@ footer{
     header{ background-image: url(../img/header_bg_mobile_with_name.png); }
 
     /* ABOUT */
+    .about__main--img { display: none; }
     .about__main--title{
         font-size: 5vh;
         color: #000;
     }
+    .about__main--btn{ width: 100%; }
 
     /* CONTACT US */
     .contact-us__button{ width: 100%; }
