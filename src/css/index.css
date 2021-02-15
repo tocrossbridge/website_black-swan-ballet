@@ -201,7 +201,10 @@ footer{
     .about__main--btn{ width: 100%; }
 
     /* CONTACT US */
-    .contact-us__button{ width: 100%; }
+    .contact-us__button{
+        font-size: 4vh;
+        width: 100%;
+    }
 }
 @media only screen and (max-width: 800px){
     /* HEADER */
