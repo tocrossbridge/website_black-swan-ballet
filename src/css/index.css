@@ -96,16 +96,20 @@ header{
 .pricing__card{
     background-color: #475548;
     color: #fff;
+    border-radius: 20px;
     margin-top: 5rem;
 }
 .pricing__text-title{
     font-size: 50px;
 }
 .pricing__text-description{
-    font-size: 28px;
+    font-size: 26px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 .pricing__text-price{
     font-size: 50px;
+    text-align: end;
 }
 
 
@@ -134,6 +138,16 @@ footer{
     height: 30px;
     text-align: center;
     color: #fff;
+}
+
+@media only screen and (min-width: 1500px){
+    /* HEADER */
+    header{ height: 95vh; }
+}
+
+@media only screen and (min-width: 1550px){
+    /* HEADER */
+    header{ height: 100vh; }
 }
 
 @media only screen and (max-width: 1000px){
