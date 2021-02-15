@@ -82,9 +82,47 @@ header{
     font-size: 50px;
     font-weight: 900;
 }
-.studio-and-life__images{
+.studio-and-life__photo-box {
+    position: relative;
     width: 100%;
-    max-width: 600px;
+}
+.studio-and-life__photo-box--image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.studio-and-life__photo-box--overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #475548;
+}
+.studio-and-life__photo-box:hover .studio-and-life__photo-box--overlay {
+    opacity: 1;
+}
+.studio-and-life__photo-box--text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.studio-and-life__photo-box--title{
+    font-size: 30px;
+    font-weight: 900;
+}
+.studio-and-life__photo-box--description{
+    font-size: 18px;
 }
 
 /* PRICING */
