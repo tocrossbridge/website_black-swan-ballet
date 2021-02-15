@@ -1,13 +1,13 @@
 # Website: Black Swan Company
 <img src="src/img/readme/mockup_desktop.png" />
 <b>Made with:</b><br/>
-Lorem ipsulum v1.4
+Bootstrap 4.6
 <br/><br/>
 <b>What is this?</b><br/>
 A website for a fictional ballet company
 <br/><br/>
 <b>Description:</b><br/>
-It was prototiped using Figma, the images are from Freepik, edited using Photoshop
+It was prototyped using Figma, the images are from Freepik, edited using Photoshop
 and, for the code, I used Bootstrap 4.6
 <br/><br/>
 # Quick links &#128150;
@@ -31,13 +31,13 @@ and, for the code, I used Bootstrap 4.6
 # How is the development of the project right now?
 <b>Last update:</b> 14/02/2021
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra molestie finibus. Donec lacinia quam at est lobortis tempus. Proin ac ipsum vel orci aliquam consectetur.
+I code the desktop stuff, and I feel that need to adjusts some stuff at responsive ;)
 
 <br/>
 
 # Credits
 
-The down below are the credits of all sources that I used to composed the images:
+Down below are the credits of all sources that I used to compose the images:
 
 <b>HEADER</b>
 
