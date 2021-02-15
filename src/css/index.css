@@ -1,20 +1,25 @@
 header{
     background-image: url(../img/header_bg_desktop.png);
     background-position: initial;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    height: 888px;
-    max-height: 897px;
+    height: 100vh;
 }
 
 
 /* INSTRUCTORS */
 .about__bg{
     background-image: url(../img/about_bg.png);
+    background-size: cover;
     background-repeat: no-repeat;
 }
+.about__main--img{
+    background-image: url(../img/about_img.png);
+    background-repeat: no-repeat;
+    height: 665px;
+}
 .about__main--title{
-    font-size: 50px;
+    font-size: 6vh;
     font-weight: 900;
     color: #fff;
 }
@@ -41,6 +46,9 @@ header{
 /* INSTRUCTORS */
 .instructors__title{
     font-size: 50px;
+}
+.instructors__instructor--img{
+    background-image: url(../img/instructor_01.png);
 }
 .instructors__instructor--name{
     font-size: 50px;
@@ -76,6 +84,7 @@ header{
 }
 .studio-and-life__images{
     width: 100%;
+    max-width: 600px;
 }
 
 /* PRICING */
@@ -110,7 +119,7 @@ header{
     background-color: #343434;
     color: #fff;
     font-weight: 900;
-    font-size: 50px;
+    font-size: 5vh;
     padding: 20px 70px;
     border-radius: 20px;
 }
@@ -127,8 +136,25 @@ footer{
     color: #fff;
 }
 
-@media (max-width: 1000px){
-    header{
-        background-image: url(../img/header_bg_mobile_with_name.png);
+@media only screen and (max-width: 1000px){
+    /* HEADER */
+    header{ background-image: url(../img/header_bg_mobile_with_name.png); }
+
+    /* ABOUT */
+    .about__main--title{
+        font-size: 5vh;
+        color: #000;
     }
+
+    /* CONTACT US */
+    .contact-us__button{ width: 100%; }
+}
+@media only screen and (max-width: 800px){
+    /* HEADER */
+    header{ height: 115vh; }
+}
+
+@media only screen and (max-width: 300px){
+    /* HEADER */
+    header{ height: 88vh; }
 }
