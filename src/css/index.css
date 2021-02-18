@@ -50,6 +50,7 @@ header{
 .instructors__instructor--img{
     background-image: url(../img/instructor_01.png);
 }
+.instructors__instructor--img-mobile{ display: none; }
 .instructors__instructor--name{
     font-size: 50px;
 }
@@ -207,6 +208,19 @@ footer{
         color: #fff;
     }
     .about__main--btn{ width: 100%; }
+
+    /* INSTRUCTORS */
+    .instructors__instructor--img-mobile{
+        background-image: url(../img/instructor_01.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin-bottom: 2rem;
+        width: 250px;
+        height: 250px;
+        display: block;
+    }
+    .instructors__instructor--text{ font-size: 18px; }
 
     /* PRICING */
     .pricing {
