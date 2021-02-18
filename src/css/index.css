@@ -208,6 +208,12 @@ footer{
     }
     .about__main--btn{ width: 100%; }
 
+    /* PRICING */
+    .pricing {
+        background-size: cover;
+        height: 900px;
+    }
+
     /* CONTACT US */
     .contact-us{ padding-bottom: 2rem; }
     .contact-us__button{
