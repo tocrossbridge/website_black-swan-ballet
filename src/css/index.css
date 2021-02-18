@@ -47,6 +47,7 @@ header{
 
 /* INSTRUCTORS */
 .instructors__title{
+    font-family: 'Nova Cut', cursive;
     font-size: 50px;
 }
 .instructors__instructor--img{
@@ -54,6 +55,7 @@ header{
 }
 .instructors__instructor--img-mobile{ display: none; }
 .instructors__instructor--name{
+    font-family: 'Nova Cut', cursive;
     font-size: 50px;
 }
 .instructors__instructor--specialization{
@@ -82,6 +84,7 @@ header{
     padding-bottom: 5rem;
 }
 .studio-and-life__title{
+    font-family: 'Nova Cut', cursive;
     font-size: 50px;
     font-weight: 900;
 }
@@ -141,6 +144,7 @@ header{
     margin-top: 5rem;
 }
 .pricing__text-title{
+    font-family: 'Nova Cut', cursive;
     font-size: 50px;
 }
 .pricing__text-description{
