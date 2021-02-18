@@ -215,7 +215,10 @@ footer{
     }
 
     /* CONTACT US */
-    .contact-us{ padding-bottom: 2rem; }
+    .contact-us{
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+    }
     .contact-us__button{
         font-size: 4vh;
         width: 100%;
