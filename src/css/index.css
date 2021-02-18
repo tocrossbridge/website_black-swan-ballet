@@ -20,6 +20,7 @@ header{
     background-repeat: no-repeat;
     height: 665px;
 }
+.about__main--img-mobile{ display: none;}
 .about__main--title{
     font-size: 6vh;
     font-weight: 900;
@@ -200,8 +201,18 @@ footer{
     header{ background-image: url(../img/header_bg_mobile_with_name.png); }
 
     /* ABOUT */
-    .about__bg{
-        background-image: none;
+    .about__bg{ background-image: none; }
+    .about__main--img{ display: none; }
+    .about__main--img-mobile{
+        display: block;
+        background-image: url(../img/about_img.png);
+        background-position: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        width: 300px;
+        height: 400px;
+        margin-top: -4vh;
+        z-index: 1;
     }
     .about__main--bg{
         background-color: #475548;
@@ -209,7 +220,7 @@ footer{
         padding-bottom: 7vh;
     }
     .about__main--title{
-        font-size: 3vh;
+        font-size: 4vh;
         text-align: center;
         color: #fff;
     }
